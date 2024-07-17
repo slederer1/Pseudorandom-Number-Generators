@@ -23,7 +23,7 @@ Web applications are increasingly targeted by cyber attacks due to their widespr
 
 ## Research Paper
 
-You can view the full research paper [here](./Research-Paper/Pseudorandom-Number-Generators-Research-Paper.docx).
+You can view the full research paper [here](./Research-Paper/Pseudorandom Number Generators Research Paper.docx).
 
 ## Presentation
 
