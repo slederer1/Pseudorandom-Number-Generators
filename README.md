@@ -23,11 +23,11 @@ Web applications are increasingly targeted by cyber attacks due to their widespr
 
 ## Research Paper
 
-You can view the full research paper [here](./Research-Paper/Paper.docx).
+You can view the full research paper [here](./Research-Paper/Paper.pdf).
 
 ## Presentation
 
-You can view the presentation slides [here](./Research-Paper/presentation.pptx).
+You can view the presentation slides [here](./Research-Paper/presentation.pdf).
 
 ## Key Findings
 
